@@ -1,0 +1,8 @@
+{
+  "name": "Generador QR \u0026 APK",
+  "description": "Generador de códigos QR para enlaces web y redes WiFi con soporte de instalación como app/APK móvil",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
